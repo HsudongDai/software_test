@@ -1,0 +1,153 @@
+BubbleSortTest
+
+
+======================================== Generating Original Test Results ========================================
+{isSame=pass}
+
+
+======================================== Executing Mutants ========================================
+test report: {isSame=}
+mutant report: {}
+[Notice] There are no mutants to apply
+
+
+======================================== Executing Mutants ========================================
+  AOIS_1{isSame=pass}
+  AOIS_10{isSame=pass}
+  AOIS_11{isSame=pass}
+  AOIS_12{isSame=pass}
+  AOIS_17{isSame=pass}
+  AOIS_18{isSame=pass}
+  AOIS_19{isSame=pass}
+  AOIS_2{isSame=pass}
+  AOIS_20{isSame=pass}
+  AOIS_21{isSame=pass}
+  AOIS_22{isSame=pass}
+  AOIS_23{isSame=pass}
+  AOIS_24{isSame=pass}
+  AOIS_25{isSame=pass}
+  AOIS_26{isSame=pass}
+  AOIS_27{isSame=pass}
+  AOIS_28{isSame=pass}
+  AOIS_29{isSame=pass}
+  AOIS_3{isSame=pass}
+  AOIS_30{isSame=pass}
+  AOIS_31{isSame=pass}
+  AOIS_32{isSame=pass}
+  AOIS_33{isSame=pass}
+  AOIS_34{isSame=pass}
+  AOIS_35{isSame=pass}
+  AOIS_36{isSame=pass}
+  AOIS_37{isSame=pass}
+  AOIS_38{isSame=pass}
+  AOIS_4{isSame=pass}
+  AOIS_9{isSame=pass}
+  AOIU_1{isSame=pass}
+  AOIU_2{isSame=pass}
+  AOIU_3{isSame=pass}
+  AOIU_4{isSame=pass}
+  AOIU_5{isSame=pass}
+  AOIU_6{isSame=pass}
+  AOIU_7{isSame=pass}
+  AOIU_8{isSame=pass}
+  AOIU_9{isSame=pass}
+  AORB_1{isSame=pass}
+  AORB_10{isSame=pass}
+  AORB_11{isSame=pass}
+  AORB_12{isSame=pass}
+  AORB_13{isSame=pass}
+  AORB_14{isSame=pass}
+  AORB_15{isSame=pass}
+  AORB_16{isSame=pass}
+  AORB_17{isSame=pass}
+  AORB_18{isSame=pass}
+  AORB_19{isSame=pass}
+  AORB_2{isSame=pass}
+  AORB_20{isSame=pass}
+  AORB_21{isSame=pass}
+  AORB_22{isSame=pass}
+  AORB_23{isSame=pass}
+  AORB_24{isSame=pass}
+  AORB_3{isSame=pass}
+  AORB_4{isSame=pass}
+  AORB_5{isSame=pass}
+  AORB_6{isSame=pass}
+  AORB_7{isSame=pass}
+  AORB_8{isSame=pass}
+  AORB_9{isSame=pass}
+  AORS_1{isSame=pass}
+  AORS_2{isSame=pass}
+  CDL_1{isSame=pass}
+  CDL_2{isSame=pass}
+  CDL_3{isSame=pass}
+  CDL_4{isSame=pass}
+  CDL_5{isSame=pass}
+  COI_1{isSame=pass}
+  COI_2{isSame=pass}
+  COI_3{isSame=pass}
+  LOI_1{isSame=pass}
+  LOI_10{isSame=pass}
+  LOI_11{isSame=pass}
+  LOI_12{isSame=pass}
+  LOI_13{isSame=pass}
+  LOI_14{isSame=pass}
+  LOI_2{isSame=pass}
+  LOI_4{isSame=pass}
+  LOI_5{isSame=pass}
+  LOI_6{isSame=pass}
+  LOI_8{isSame=pass}
+  LOI_9{isSame=pass}
+  ODL_1{isSame=pass}
+  ODL_13{isSame=pass}
+  ODL_14{isSame=pass}
+  ODL_17{isSame=pass}
+  ODL_18{isSame=pass}
+  ODL_19{isSame=pass}
+  ODL_2{isSame=pass}
+  ODL_20{isSame=pass}
+  ODL_6{isSame=pass}
+  ODL_7{isSame=pass}
+  ODL_8{isSame=pass}
+  ODL_9{isSame=pass}
+  ROR_1{isSame=pass}
+  ROR_10{isSame=pass}
+  ROR_11{isSame=pass}
+  ROR_12{isSame=pass}
+  ROR_13{isSame=pass}
+  ROR_15{isSame=pass}
+  ROR_16{isSame=pass}
+  ROR_17{isSame=pass}
+  ROR_18{isSame=pass}
+  ROR_19{isSame=pass}
+  ROR_2{isSame=pass}
+  ROR_20{isSame=pass}
+  ROR_21{isSame=pass}
+  ROR_3{isSame=pass}
+  ROR_4{isSame=pass}
+  ROR_5{isSame=pass}
+  ROR_6{isSame=pass}
+  ROR_8{isSame=pass}
+  ROR_9{isSame=pass}
+  SDL_1{isSame=pass}
+  SDL_10{isSame=pass}
+  SDL_11{isSame=pass}
+  SDL_2{isSame=pass}
+  SDL_3{isSame=pass}
+  SDL_4{isSame=pass}
+  SDL_5{isSame=pass}
+  SDL_6{isSame=pass}
+  SDL_7{isSame=pass}
+  SDL_9{isSame=pass}
+  VDL_10{isSame=pass}
+  VDL_2{isSame=pass}
+  VDL_3{isSame=pass}
+  VDL_5{isSame=pass}
+  VDL_6{isSame=pass}
+  VDL_9{isSame=pass}
+test report: {isSame=}
+mutant report: {VDL_10=, COI_3=, COI_2=, LOI_5=, LOI_6=, LOI_8=, LOI_1=, LOI_2=, LOI_4=, COI_1=, CDL_1=, CDL_2=, CDL_3=, LOI_9=, SDL_11=, AOIS_38=, VDL_9=, AOIS_37=, AOIS_36=, AOIS_35=, AOIS_34=, SDL_10=, AOIS_33=, AOIS_32=, VDL_3=, AOIS_31=, VDL_2=, AOIS_30=, VDL_6=, VDL_5=, AOIS_29=, AOIS_28=, AOIS_27=, AOIS_26=, ROR_21=, AOIS_25=, ROR_20=, AOIS_24=, AOIS_23=, AOIS_22=, AOIU_3=, ODL_9=, AOIS_21=, AOIU_4=, ODL_8=, AOIS_20=, AOIU_1=, AOIU_2=, ODL_1=, AOIU_9=, AORB_9=, ODL_2=, AOIU_7=, AOIU_8=, AOIU_5=, ODL_7=, AOIU_6=, ODL_6=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, AORB_7=, AORB_8=, AORB_5=, AORB_6=, AOIS_19=, ROR_2=, AOIS_18=, ROR_13=, ROR_3=, AOIS_17=, ROR_16=, ROR_4=, ROR_15=, ROR_5=, ROR_10=, ROR_6=, ROR_12=, ROR_8=, AOIS_12=, ROR_11=, ROR_9=, AOIS_11=, AORS_2=, AOIS_10=, AORS_1=, ROR_1=, ROR_18=, ROR_17=, ROR_19=, SDL_5=, SDL_4=, SDL_7=, SDL_6=, AORB_23=, SDL_9=, AORB_24=, AORB_21=, AORB_22=, SDL_1=, SDL_3=, SDL_2=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, ODL_20=, AORB_20=, ODL_19=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, LOI_14=, AOIS_9=, LOI_10=, LOI_11=, LOI_12=, LOI_13=, ODL_14=, ODL_13=, ODL_18=, ODL_17=}
+
+
+======================================== Executing Mutants ========================================
+test report: {isSame=}
+mutant report: {VDL_10=, COI_3=, COI_2=, LOI_5=, LOI_6=, LOI_8=, LOI_1=, LOI_2=, LOI_4=, COI_1=, CDL_1=, CDL_2=, CDL_3=, LOI_9=, SDL_11=, AOIS_38=, VDL_9=, AOIS_37=, AOIS_36=, AOIS_35=, AOIS_34=, SDL_10=, AOIS_33=, AOIS_32=, VDL_3=, AOIS_31=, VDL_2=, AOIS_30=, VDL_6=, VDL_5=, AOIS_29=, AOIS_28=, AOIS_27=, AOIS_26=, ROR_21=, AOIS_25=, ROR_20=, AOIS_24=, AOIS_23=, AOIS_22=, AOIU_3=, ODL_9=, AOIS_21=, AOIU_4=, ODL_8=, AOIS_20=, AOIU_1=, AOIU_2=, ODL_1=, AOIU_9=, AORB_9=, ODL_2=, AOIU_7=, AOIU_8=, AOIU_5=, ODL_7=, AOIU_6=, ODL_6=, AORB_3=, AORB_4=, AORB_1=, AORB_2=, AORB_7=, AORB_8=, AORB_5=, AORB_6=, AOIS_19=, ROR_2=, AOIS_18=, ROR_13=, ROR_3=, AOIS_17=, ROR_16=, ROR_4=, ROR_15=, ROR_5=, ROR_10=, ROR_6=, ROR_12=, ROR_8=, AOIS_12=, ROR_11=, ROR_9=, AOIS_11=, AORS_2=, AOIS_10=, AORS_1=, ROR_1=, ROR_18=, ROR_17=, ROR_19=, SDL_5=, SDL_4=, SDL_7=, SDL_6=, AORB_23=, SDL_9=, AORB_24=, AORB_21=, AORB_22=, SDL_1=, SDL_3=, SDL_2=, AORB_16=, AORB_17=, AORB_14=, AORB_15=, AORB_12=, AORB_13=, AORB_10=, AORB_11=, AORB_18=, AORB_19=, CDL_4=, CDL_5=, ODL_20=, AORB_20=, ODL_19=, AOIS_3=, AOIS_4=, AOIS_1=, AOIS_2=, LOI_14=, AOIS_9=, LOI_10=, LOI_11=, LOI_12=, LOI_13=, ODL_14=, ODL_13=, ODL_18=, ODL_17=}
